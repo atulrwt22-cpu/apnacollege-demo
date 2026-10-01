@@ -1,3 +1,3 @@
 # apnacollege-demo
 this is my first git repository.
-Author- Atul Rawat
+Author- Atul Rawat(apna college)
